@@ -91,7 +91,7 @@ It handles:
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/progdatatofa/ExpensesTracker.git
 ```
 
 Navigate into the project directory:
